@@ -1,6 +1,6 @@
 # 🌍 LocalSphere
 
-LocalSphere is a full-stack web application that connects users with local services and opportunities through a simple, structured, and secure platform. It includes authentication, service modules, and a Node.js + Express backend with MongoDB database integration and a modern frontend.
+LocalSphere is a full-stack web application designed to connect users with local services, opportunities, and community resources through a secure and user-friendly platform. The application features user authentication, service discovery, and a Node.js–Express backend powered by MongoDB.
 
 ---
 
@@ -63,8 +63,8 @@ LocalSphere/
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/bhavanarajendrakumar/LocalSphere.git
-cd LocalSphere
+git clone https://github.com/bhavanarajendrakumar/LocalSphere.git
+cd localsphere-v3
 ```
 
 ### 2. Install Dependencies
