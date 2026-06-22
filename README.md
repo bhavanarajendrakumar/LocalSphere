@@ -63,7 +63,7 @@ LocalSphere/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/LocalSphere.git
+https://github.com/bhavanarajendrakumar/LocalSphere.git
 cd LocalSphere
 ```
 
