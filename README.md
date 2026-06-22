@@ -61,6 +61,24 @@ LocalSphere/
 └── README.md
 ```
 
+## 📸 Screenshots
+
+### Home Page
+<img width="1379" height="775" alt="image" src="https://github.com/user-attachments/assets/871edab4-5c41-484c-a521-05823c41c7fd" />
+
+
+### Login Page
+<img width="1379" height="775" alt="image" src="https://github.com/user-attachments/assets/485bbc82-e8ec-4c66-b148-a6514d0acde1" />
+
+
+### Vendor Dashboard
+<img width="1379" height="775" alt="image" src="https://github.com/user-attachments/assets/1285cc1f-b974-471e-958d-ae85ea7ef038" />
+
+
+### Group Buy Page
+<img width="1379" height="775" alt="image" src="https://github.com/user-attachments/assets/a3bf0579-2dbd-41fe-822b-4897b3dee53c" />
+
+
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
