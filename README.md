@@ -1,18 +1,21 @@
 # 🌍 LocalSphere
 
-LocalSphere is a full-stack web application designed to connect users with local services, opportunities, and community resources through a secure and user-friendly platform. The application features user authentication, service discovery, and a Node.js–Express backend powered by MongoDB.
+LocalSphere is a MERN-stack hyperlocal commerce platform that connects local vendors and buyers through a secure and user-friendly digital marketplace. The platform enables nearby vendor discovery, product management, group buying, price negotiation, reviews and ratings, and role-based authentication, helping small businesses expand their digital presence.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 User Registration & Login system (secure authentication)
-- 🧑‍💻 Backend built with Node.js and Express.js
-- 🗄️ MongoDB database integration
-- 🌐 Frontend with HTML, CSS, and JavaScript
-- 📂 Modular structure (frontend + backend separation)
-- 🔑 Environment variables using `.env`
-- ⚡ Lightweight and easy to run locally
+- 🔐 JWT-based User Authentication
+- 🏪 Vendor Dashboard and Product Management
+- 📍 Hyperlocal Vendor Discovery
+- 🛒 Product Listings and Order Management
+- 👥 Group Buying System
+- 💬 AI-powered Price Negotiation
+- ⭐ Reviews and Ratings
+- 🗄️ MongoDB Database Integration
+- 🌐 Responsive User Interface
+- ⚡ MERN Stack Architecture
 
 ---
 
